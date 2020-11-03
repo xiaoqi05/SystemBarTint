@@ -1,6 +1,7 @@
 Android System Bar Tb
 =====================
 
+
 Apply background tinting to the Android system UI when using KitKat translucent modes.  
 
 ![screenshot](https://raw.github.com/jgilfelt/SystemBarTint/master/screenshot.png "screenshot")
