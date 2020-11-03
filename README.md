@@ -7,7 +7,7 @@ Apply background tinting to the Android system UI when using KitKat translucent 
 
 Android 4.4 (KitKat) introduced translucent system UI styling for status and navigation bars. These styles are great for wallpaper based activities like the home screen launcher, but the minimal background protection provided makes them less useful for other types of activity unless you supply your own backgrounds inside your layout. Determining the size, position and existence of the system UI for a given device configuration can be non-trivial.
 
-This library offers a simple way to create a background "tint" for the system bars, be it a color value or Drawable. By default it will give you a semi-opaque black background that will be useful for full-bleed content screens where persistent system UI is still important - like when placed over a map or photo grid.
+ library offers a simple way to create a background "tint" for the system bars, be it a color value or Drawable. By default it will give you a semi-opaque black background that will be useful for full-bleed content screens where persistent system UI is still important - like when placed over a map or photo grid.
 
 Usage
 -----
