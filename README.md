@@ -1,4 +1,4 @@
-Android System Bar Ti
+Android System Bar Tb
 =====================
 
 Apply background tinting to the Android system UI when using KitKat translucent modes.  
