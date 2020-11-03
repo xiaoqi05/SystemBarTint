@@ -1,5 +1,6 @@
 Android System Bar Tint
-=======================
+======================
+
 
 Apply background tinting to the Android system UI when using KitKat translucent modes.  
 
