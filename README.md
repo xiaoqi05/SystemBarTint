@@ -44,6 +44,7 @@ tintManager.setNavigationBarTintResource(R.drawable.my_tint);
 tintManager.setStatusBarTintDrawable(MyDrawable);
 ```
 
+
 #### SystemBarConfig
 
 Developers should not need to concern themselves with the size or positioning of the system UI. Use `android:fitsSystemWindows="true"` in conjunction with `android:clipToPadding="false"` to achieve the optimal layout for full bleed content screens that need to be padded within the system UI bounds. However, certain elements like the `GoogleMap` provided by Google Play Services may force you to determine the pixel insets for the system bars in order to provide the appropriate layout effect.
